@@ -29,7 +29,7 @@ Node *copyList(Node *head)
     return newhead;
 }
 
-/*1st approach
+/*2nd approach
 Time Complexity - O(n)
 Space Complexity - O(1)*/
 Node *copyList(Node *head)
